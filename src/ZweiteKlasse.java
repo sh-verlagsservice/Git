@@ -6,6 +6,7 @@ public class ZweiteKlasse {
 		System.out.println("Auch hier wird nur getestet.");
 		System.out.println("Zeile 2");
 		System.out.println("Zeile 3 wird nach dem Hochladen geändert.");
+		System.out.println("Jetzt möchte ich etwas testen, was nur im Testzweig landet. Es soll nicht im Master landen, weil es noch im Arbeitsstadium ist.");
 	}
 
 }
